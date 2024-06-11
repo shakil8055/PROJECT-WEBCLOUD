@@ -1,0 +1,23 @@
+html{
+    height: 100vh;
+}
+body{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    align-items: center;
+    background-image: url(cloud\ BG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    filter: blur(500px);
+    
+}
+.login{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    border: 10px solid black;
+}
